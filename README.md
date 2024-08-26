@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @KRISHNAREDDY10
 - 👀 I’m interested in as Python developer & Wildlife Photograpy
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Analysts , Python Developer, Data Scientist
+- 💞️ I’m looking to collaborate with Data Analysts , Python Developer, Data Scientist
 - 📫 How to reach me through my linkedin profile
 - 😄 Pronouns: HE/His
-- ⚡ Fun fact: I'm a Python enthusiast with a knack for data security and privacy, and I love exploring the latest tech trends.
+- ⚡ Fun fact: I love exploring the latest tech trends.
 
 <!---
 KRISHNAREDDY10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
