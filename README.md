@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @KRISHNAREDDY10<br>- 👀 I’m interested in  Python developement & Wildlife Photograpy<br>- 🌱 I’m currently learning Python<br>- 💞️ I’m looking to collaborate with Data Analysts , Python Developers, Data Scientists<br>- 📫 How to reach me through my linkedin profile, Mail, Instagram<br>- 😄 Pronouns: HE/His<br>- ⚡ Fun fact: I love exploring the latest tech trends .<br>
+- 👋 Hi there! I'm a Python Developer with a passion for Data Science and Artificial Intelligence.<br>🔧 Skills: Python, SQL, Django, Flask, Data Analysis<br>🌍 Interests: Machine Learning, Data Science, Wildlife Photography<br>-🤝 **Looking to Collaborate:** I’m open to collaborating on exciting projects related to Python development, data science, or web applications. Feel free to reach out if you have a project or idea in mind!<br>- 📫 🔗 Connect with me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-krishna-anand-reddy-parlapalli-726785296/) <br>- ⚡📸 When I’m not coding, I enjoy exploring nature and capturing wildlife through photography.<br>
 
 
 ## 🌐 Socials:
