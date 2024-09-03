@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @KRISHNAREDDY10<br>- 👀 I’m interested in as Python developer & Wildlife Photograpy<br>- 🌱 I’m currently learning Python<br>- 💞️ I’m looking to collaborate with Data Analysts , Python Developer, Data Scientist<br>- 📫 How to reach me through my linkedin profile<br>- 😄 Pronouns: HE/His<br>- ⚡ Fun fact: I love exploring the latest tech trends.<br>
+- 👋 Hi, I’m @KRISHNAREDDY10<br>- 👀 I’m interested in  Python developement & Wildlife Photograpy<br>- 🌱 I’m currently learning Python<br>- 💞️ I’m looking to collaborate with Data Analysts , Python Developers, Data Scientists<br>- 📫 How to reach me through my linkedin profile, Mail, Instagram<br>- 😄 Pronouns: HE/His<br>- ⚡ Fun fact: I love exploring the latest tech trends .<br>
 
 
 ## 🌐 Socials:
