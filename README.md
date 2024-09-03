@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👋 Hi there! I'm a Python Developer with a passion for Data Science and Artificial Intelligence.<br>🔧💻 Skills: Python, SQL, Django, Flask<br>🌍 Interests: Machine Learning, Data Science, Wildlife Photography<br>-🤝 **Looking to Collaborate:** I’m open to collaborating on exciting projects related to Python development, data science, or web applications. Feel free to reach out if you have a project or idea in mind!<br>- 📫 🔗 Connect with me: [![LinkedIn](https://images.app.goo.gl/96DfCq9C4ZsGzuLg6&logoColor=white)](https://www.linkedin.com/in/venkata-krishna-anand-reddy-parlapalli-726785296/) <br>- ⚡📸 When I’m not coding, I enjoy exploring nature and capturing wildlife through photography.<br>
+- 👋 Hi there! I'm a Python Developer with a passion for Data Science and Artificial Intelligence.<br>🔧💻 Skills: Python, SQL, Django, Flask<br>🌍 Interests: Machine Learning, Data Science, Wildlife Photography<br>-🤝 **Looking to Collaborate:** I’m open to collaborating on exciting projects related to Python development, data science, or web applications. Feel free to reach out if you have a project or idea in mind!<br>- 📫 🔗 Connect with me:- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-krishna-anand-reddy-parlapalli-726785296/) 
+ <br>- ⚡📸 When I’m not coding, I enjoy exploring nature and capturing wildlife through photography.<br>
 
 
 ## 🌐 Socials:
